@@ -10,3 +10,7 @@
   - **result:** https://jsfiddle.net/linkstrifer/3b4pyzn2/
 - With a function, create an array with a length provided in the parameters
   - **result:** https://jsfiddle.net/linkstrifer/qLhfevkx/
+- With a function, say if a word is a palindrome
+  - **result:** https://jsfiddle.net/linkstrifer/3p1f1kjL/
+- Passed an array full with integers, return the array ordered asc or des (defined by parameter)
+  - **result:** https://jsfiddle.net/linkstrifer/zoscLxaq/
