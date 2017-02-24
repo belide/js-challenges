@@ -14,3 +14,12 @@
   - **result:** https://jsfiddle.net/linkstrifer/3p1f1kjL/
 - Passed an array full with integers, return the array ordered asc or des (defined by parameter)
   - **result:** https://jsfiddle.net/linkstrifer/zoscLxaq/
+- Via javascript, write inside the container the height and width in pixels using a function https://jsfiddle.net/linkstrifer/shd87j8z/
+  - **result:** https://jsfiddle.net/linkstrifer/3d1qnm4o/
+- Via javascript, write inside every box the width and height in pixels using functions https://jsfiddle.net/linkstrifer/e9c2L4jg/ 
+  - **result:** https://jsfiddle.net/linkstrifer/r9s1y96y/
+- Via javascript, create n boxes and write inside every box the width and height in pixels using functions https://jsfiddle.net/linkstrifer/asuhdxma/
+  - **result:** https://jsfiddle.net/linkstrifer/pet9fq7z/
+- Create n boxes, every box should have double height and width from the last one while the box width < viewport width
+  - **result:** https://jsfiddle.net/linkstrifer/8ssd48es/
+ 
